@@ -142,7 +142,7 @@
 }
 /*======= Common =======*/
 :root {
-	--color-primary: #473bf0;
+	--color-primary: #48b4d0;
 	--color-primary-2: #0040e5;
 	--color-primary-3: #e95e6c;
 	--color-primary-4: #3377ff;
@@ -3177,7 +3177,7 @@ textarea {
 }
 
 .common-heading.tagline-boxed .tagline {
-	background-color: #d3d4f8;
+	background-color: #ffdd00;
 	color: var(--color-primary);
 	padding: 4px 18px;
 	border-radius: 30px;
@@ -3414,7 +3414,7 @@ textarea {
 }
 
 .image-boxes-v1 .image-box:hover .box-link, .image-boxes-v1 .image-box.active .box-link {
-	border-color: #473bf0;
+	border-color: #ffdd00;
 }
 
 .image-boxes-v1.image-thumbnail-boxed .image-box {
